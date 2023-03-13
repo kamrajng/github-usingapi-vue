@@ -129,7 +129,7 @@ export default {
 html,
 body {
   font-family: Helvetica, sans-serif;
-  background-color: #242f3a;
+  background-color: #242f67;
 }
 
 form.user-input {
